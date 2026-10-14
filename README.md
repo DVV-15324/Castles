@@ -4,9 +4,7 @@
 
 <img src="./logo/logo.png" alt="Casltes Logo" width="250"/>
 
-### Dart Frontend CLI Tool
+### Dart CLI for Flutter scaffolding
 <p>
-    REST API scaffolding for <b>Flutter</b>, built for <b>simplicity</b>, <b>low-resource usage</b>, 
-    and <b>practical development</b>.
-  </p>
- 
+  Generate Flutter modules with a single command. Fast, lightweight, zero-dependency.
+</p>
