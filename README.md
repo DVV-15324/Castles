@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./logo/logo.png" alt="Casltes Logo" width="350"/>
+<img src="./logo/logo.png" alt="Casltes Logo" width="250"/>
 
 ### Dart Frontend CLI Tool
 <p>
