@@ -1,0 +1,2 @@
+*.tmpl linguist-language=Dart
+*.tmpl linguist-detectable=true
