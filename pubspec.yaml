@@ -6,6 +6,9 @@ version: 1.0.0
 environment:
   sdk: ^3.13.5
 
+executables:
+  castles: castles
+
 # Add regular dependencies here.
 dependencies:
   path: ^1.9.0
